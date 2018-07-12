@@ -1,4 +1,4 @@
-import time
+﻿import time
 import math
 import random
 import os
@@ -23,7 +23,7 @@ ratio7 = [3, 3, 4, 5, 6] #Bom
 wapens = ["motor", "bom"]
 
 #personages:
-namen = ["Steve Jobs", "Gekke Henkie", "Maiseter", "Ayachi master", "Jason Voorhees", "Jelle", "Abbe", "Rembrandt", "Jezus", "Kapitein", "Cobra", "Automobilist", "Gert-Jan meijer", "Golfballetje", "Pixel", "Pacboi", "LongBoi", "Calvijn", "Roodbaard", "Het ij", "Zakje", "Teletubbie", "De huismus", "Koning-Rat", "Midas", "Programmeur", "Student", "Feracci", "Uw rechter", "De duivel", "Demon", "De boer", "Subject-3419", "D-9341", "NXT-BOT", "Killer", "Kabouter", "Je docent", "Hyperboy", "Varg", "John", "Het object", "ROBOT", "cryclone dt3", "Codemaker_4", "psyclone", "De alchemist", "Hakan-bot", "Jurjen-bot", "Harvey", "Bob", "Ahmed", "Commandant", "De generaal", "Scout", "Sergeant", "De chirurg", "Paddenstoel", "De paus", "De excorcist", "Jochem", "Bamibal", "De doctor", "Sub-Zero", "Scorpion", "Sinterklas", "Knuffelbeer", "De Hertog", "Chris Hadfield", "Vsauce", "Einstein", "Piloot", "Zeus", "Spion", "De aap", "Terminator", "SWAT", "Deo", "De ninja", "RiddimLord", "Yuki", "Een bouwvakker", "Filips II", "De koning", "Slenderman", "SCP-173", "Windows", "User", "Stekkerdoos", "Admin", "Haarsma", "Obama", "Boef", "Militair", "Noob", "Wacho", "Orang", "Karel V", "Luther", "Issam", "Codecracker", "De Blox", "De vijand", "Arthur", "Stickman", "God", "INFEKT", "Trump", "Hakan", "Jurjen", "Bloxyboy", "Jurre", "Mr. Plak", "Amin", "Strijder", "De profeet", "Mohammed", "Kirito", "Otto", "Guerillastrijder", "je moeder"]
+namen = ["Steve Jobs", "Gekke Henkie", "Maiseter", "Ayachi master", "Jason Voorhees", "Jelle", "Abbe", "Rembrandt", "Jezus", "Kapitein", "Cobra", "Automobilist", "Gert-Jan meijer", "Golfballetje", "Pixel", "Pacboi", "LongBoi", "Calvijn", "Roodbaard", "Het ij", "Zakje", "Teletubbie", "De huismus", "Koning-Rat", "Midas", "Programmeur", "Student", "Feracci", "Uw rechter", "De duivel", "Demon", "De boer", "Subject-3419", "D-9341", "NXT-BOT", "Killer", "Kabouter", "Je docent", "Hyperboy", "Varg", "John", "Het object", "ROBOT", "cryclone dt3", "Codemaker_4", "psyclone", "De alchemist", "Proctoloog", "Motje", "Shitbag", "Hakan-bot", "Jurjen-bot", "Harvey", "Bob", "Ahmed", "Commandant", "De generaal", "Scout", "Sergeant", "De chirurg", "Paddenstoel", "De paus", "De excorcist", "Jochem", "R4KE", "Bamibal", "De doctor", "Sub-Zero", "Scorpion", "Sinterklas", "Knuffelbeer", "De Hertog", "Chris Hadfield", "Vsauce", "Einstein", "Piloot", "Zeus", "Spion", "De aap", "Terminator", "SWAT", "Deo", "De ninja", "RiddimLord", "Yuki", "Een bouwvakker", "Filips II", "De koning", "Slenderman", "SCP-173", "Windows", "User", "Stekkerdoos", "Admin", "Haarsma", "Obama", "Boef", "Militair", "Noob", "Wacho", "Orang", "Karel V", "Luther", "Issam", "Codecracker", "De Blox", "De vijand", "Pewdiepie", "Markiplier", "Zwarte ruiter", "Obunga", "Koning Arthur", "Stickman", "God", "INFEKT", "Trump", "Hakan", "Jurjen", "Bloxyboy", "Jurre", "Mr. Plak", "Amin", "Strijder", "De profeet", "Mohammed", "Kirito", "Otto", "Guerillastrijder", "je moeder"]
 
 #timers en hp meters
 slaap = [0.5, 0.6, 0.7, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3]
@@ -1861,7 +1861,6 @@ while True:
             print("")
             print("Gelieve EEN nummer in te vullen!")
             time.sleep(2)
-
 
         
 
